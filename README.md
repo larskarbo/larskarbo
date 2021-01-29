@@ -7,7 +7,7 @@ My name is Lars Karbo. I have been coding since I learned how to create websites
 ## 🔭 I’m currently working on ...
 
 * Doing [12 startups in 12 months](https://larskarbo.no/12-startups-12-months)
-* Working as a [freelancer](https://larskarbo.no/consulting)
+* Working as a [freelancer](https://larskarbo.no/)
 
 Other stuff:
 
