@@ -9,6 +9,13 @@ My name is Lars Karbo. I have been coding since I learned how to create websites
 * Doing [12 startups in 12 months](https://larskarbo.no/12-startups-12-months)
 * Working as a [freelancer](https://larskarbo.no/)
 
+Some of the projects a have built:
+
+* [Helping people communicate effectively with video](https://personate.ai) - Personate AI
+* [Spotify AB-repeater](https://slapper.io) - Slapper
+* [French Pronunciation Trainer](https://goimitate.com) - Imitate
+* [Watch local videos together](https://fileparty.co) - FileParty
+
 Other stuff:
 
 * Learning music (ableton).
