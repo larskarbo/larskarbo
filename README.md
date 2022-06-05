@@ -8,6 +8,8 @@ My name is Lars Karbo. I have been coding since I learned how to create websites
 
 I'm working at [Layer3](https://beta.layer3.xyz/) where we make a platform for the future of insentivized, decentralized work.
 
+We are looking for engineers! If you want to be part of a competent, fast-moving team, [DM me](https://twitter.com/larskarbo)!
+
 ## Previously I did...
 
 * Web3, solidity and ethereum projects (https://tokenbird.io, https://rudeboys.io, and more...)
