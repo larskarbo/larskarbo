@@ -6,25 +6,19 @@ My name is Lars Karbo. I have been coding since I learned how to create websites
 
 ## 🔭 I’m currently working on ...
 
+I'm working at [Layer3](https://beta.layer3.xyz/) where we make a platform for the future of insentivized, decentralized work.
+
+## Previously I did...
+
 * Web3, solidity and ethereum projects (https://tokenbird.io, https://rudeboys.io, and more...)
 * Doing [12 startups in 12 months](https://larskarbo.no/12-startups-12-months)
-* Working as a [freelancer](https://larskarbo.no/)
+* Worked as a [freelancer](https://larskarbo.no/)
 
 Some of the projects a have built:
 
-* [Helping people communicate effectively with video](https://personate.ai) - Personate AI
-* [Spotify AB-repeater](https://slapper.io) - Slapper
-* [French Pronunciation Trainer](https://goimitate.com) - Imitate
-* [Watch local videos together](https://fileparty.co) - FileParty
+**I have a personal blog here, where I talk about life and everything and indie hacking https://larskarbo.no/**
 
-Other stuff:
-
-* Learning music (ableton).
-* Learning french 🇫🇷.
-
-
-**I have a pretty nice blog here: https://larskarbo.no/**
-
+**I also have a dev blog, where I geek out about some technologies I love like TypeScript, Ethereum, GraphQ. https://turfemon.com**
 
 
 ## 📫 How to reach me:
